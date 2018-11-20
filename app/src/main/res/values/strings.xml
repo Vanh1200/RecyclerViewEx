@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">RecyclerViewEx</string>
+    <string name="text_tem">temp_text</string>
+    <string name="text_facebook">facebook</string>
 </resources>
